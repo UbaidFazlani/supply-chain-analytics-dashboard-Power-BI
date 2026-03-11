@@ -45,3 +45,27 @@ The dashboard helps identify key operational insights and supports data-driven d
 - Carrier B provides the fastest delivery with an average shipping time of **5 days**.
 
 - Total production (**57K**) exceeds total sales (**46K**), suggesting potential excess inventory in the supply chain.
+## 🎯 Learning Outcomes
+
+- Hands-on experience in building interactive **Power BI dashboards**
+- Data cleaning and transformation using **Power Query**
+- Creating KPI metrics and calculations using **DAX**
+- Analyzing supply chain data to generate **business insights**
+- Designing clear and professional dashboards for **data storytelling**
+## 📂 Files Included
+
+- **Supply_Chain_Dashboard.pbix** – Power BI dashboard file
+- **supply_chain_dataset.csv** – Raw dataset used for analysis
+- **overview_dashboard.png** – Screenshot of the Overview dashboard page
+- **supplier_operations_dashboard.png** – Screenshot of the Supplier & Operations analysis page
+- **business_insights_dashboard.png** – Screenshot of the Business Insights page
+## 📷 Dashboard Preview
+
+### Overview Dashboard
+![Overview Dashboard](overview_dashboard.png)
+
+### Supplier & Operations Analysis
+![Supplier & Operations](supplier_operations_dashboard.png)
+
+### Business Insights
+![Business Insights](business_insights_dashboard.png)
